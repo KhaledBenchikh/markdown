@@ -1,5 +1,5 @@
 > * Pour installer cypress:
- * `npm installer`
+>> * `npm installer`
 > * Pour désinstaller cypress:
- * `npm uninstall cypress`
+>> * `npm uninstall cypress`
 
