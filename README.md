@@ -61,7 +61,7 @@
 
 ## 🌿 Branch naming convention
 
-> * Please prefix your branch name with ont of the following **Bugfix|Hotfix|Feature**.
+> * Please prefix your branch name with one of the following **Bugfix|Hotfix|Feature**.
 
 ## ⛩️ Project structure
 
