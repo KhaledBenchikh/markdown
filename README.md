@@ -32,13 +32,13 @@
 > 2. `nano .zshrc` OR `vim .zshrc`
 > 3. Add the following functions to your file :
 >
-> ~~~code
+> ~~~bash
 > function cyo (){
 > npx cypress open --env allure=true
 > }
 > ~~~
 >
-> ~~~code
+> ~~~bash
 > function cyr () {
 > npx cypress run --env allure=true --browser chrome
 > }
@@ -108,4 +108,3 @@
   >> * On Linux or macOS: `unset HTTP_PROXY`
   >> * On windows: `Remove-Item Env:\HTTP_PROXY`
   >> * Or kill the current terminal and reopen a new terminal
-
