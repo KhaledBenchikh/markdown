@@ -32,11 +32,11 @@
 > 2. `nano .zshrc` OR `vim .zshrc`
 > 3. Add the following functions to your file :
 >
-> ```
+> ~~~ 
 > function cyo (){
 > npx cypress open --env allure=true
 > }
-> ``` 
+> ~~~ 
 >
 > ```
 > function cyr () {
