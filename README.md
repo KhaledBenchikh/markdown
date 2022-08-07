@@ -26,6 +26,9 @@
 
 > * [Volta (recommanded)](https://docs.volta.sh/guide/getting-started "Volta (recommanded)")
 > * [nvm](https://github.com/nvm-sh/nvm "nvm")
+
+#### For the windows user, it more sample to install a windows subsystem for linux machine instead of install a vim
+
 > * [WSL](https://docs.microsoft.com/fr-fr/windows/wsl/install "WSL")
 >
 #### If you are using a Mac or Linux, and find that typing all the command `npx cypress open` is time consuming you can create an alias by running the following commands
