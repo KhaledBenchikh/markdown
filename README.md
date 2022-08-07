@@ -62,14 +62,14 @@
 
 > * Automated tests FUNCTIONAL DOMAINS :
 >
-> 1. B2C
-> 2. BUY
-> 3. C2C
-> 4. NSE
-> 5. SEARCH
-> 6. SEO
-> 7. TECH
-> 8. VIS
+>> 1. B2C
+>> 2. BUY
+>> 3. C2C
+>> 4. NSE
+>> 5. SEARCH
+>> 6. SEO
+>> 7. TECH
+>> 8. VIS
 >
 ## 🚀 Run test
 
