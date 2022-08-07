@@ -32,17 +32,17 @@
 > 2. `nano .zshrc` OR `vim .zshrc`
 > 3. Add the following functions to your file :
 >
-> ~~~ 
+> ~~~code
 > function cyo (){
 > npx cypress open --env allure=true
 > }
-> ~~~ 
+> ~~~
 >
-> ```
+> ~~~code
 > function cyr () {
 > npx cypress run --env allure=true --browser chrome
 > }
-> ```
+> ~~~
 >
 > 4. Save the file
 > 5. Run : `source .zshrc`
@@ -61,32 +61,32 @@
 ## ⛩️ Project structure
 
 > * Automated tests FUNCTIONAL DOMAINS :
-
-1. B2C
-2. BUY
-3. C2C
-4. NSE
-5. SEARCH
-6. SEO
-7. TECH
-8. VIS
-
+>
+> 1. B2C
+> 2. BUY
+> 3. C2C
+> 4. NSE
+> 5. SEARCH
+> 6. SEO
+> 7. TECH
+> 8. VIS
+>
 ## 🚀 Run test
 
 > * Testing with user interface
- >>
-  >> * run command: `npm run cy:open`
+ >
+  >> run command: `npm run cy:open`
 >
 > * Testing without user interface
->>
-  >> *`npm run cy:run`
-
+>
+  >> `npm run cy:run`
+>
 ## 🏅 Code Quality
 
 > * To ensure a high level of code quality in the project and ensure a uniform code formatting rule, the prettier and eslint librairies are used.
 > * Please add Prettier extension to your visual code and make sure to add the following configuration to your VS Code configuration :
-
-```json
+>
+~~~json
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
@@ -94,7 +94,7 @@
   },
   "editor.formatOnSave": true
 }
-```
+~~~
 
 ## 📢 Notes
 
