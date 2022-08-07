@@ -27,7 +27,7 @@
 > * [Volta (recommanded)](https://docs.volta.sh/guide/getting-started "Volta (recommanded)")
 > * [nvm](https://github.com/nvm-sh/nvm "nvm")
 
-#### For the windows user, it more sample to install a windows subsystem for linux machine instead of install a vim
+#### For the windows users, it's more simple to install a windows subsystem for linux machine instead of install a VM
 
 > * [WSL](https://docs.microsoft.com/fr-fr/windows/wsl/install "WSL")
 >
