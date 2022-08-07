@@ -32,13 +32,13 @@
 > 2. `nano .zshrc` OR `vim .zshrc`
 > 3. Add the following functions to your file :
 >
-> function cyo (){
-> npx cypress open --env allure=true
-> }
+>  * function cyo (){
+>> npx cypress open --env allure=true
+>> }
 >
-> function cyr () {
-> npx cypress run --env allure=true --browser chrome
-> }
+> * function cyr () {
+>> npx cypress run --env allure=true --browser chrome
+>> }
 >
 > 4. Save the file
 > 5. Run : `source .zshrc`
