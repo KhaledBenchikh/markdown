@@ -22,16 +22,16 @@
 
 ## 🛠️ Tips
 
-#### For switching between a node version easly, it's recommanded to install a node version manager
+* For switching between a node version easly, it's recommanded to install a node version manager
 
 > * [Volta (recommanded)](https://docs.volta.sh/guide/getting-started "Volta (recommanded)")
 > * [nvm](https://github.com/nvm-sh/nvm "nvm")
 
-#### For the windows users, it's more simple to install a windows subsystem for linux machine instead of install a VM
+* For the windows users, it's more simple to install a windows subsystem for linux machine instead of install a VM
 
 > * [WSL](https://docs.microsoft.com/fr-fr/windows/wsl/install "WSL")
 >
-#### If you are using a Mac or Linux, and find that typing all the command `npx cypress open` is time consuming you can create an alias by running the following commands
+* If you are using a Mac or Linux, and find that typing all the command `npx cypress open` is time consuming you can create an alias by running the following commands
 
 > 1. cd
 > 2. `nano .zshrc` OR `vim .zshrc`
